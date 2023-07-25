@@ -1,4 +1,4 @@
-### Hi there!
+### About Me:
 - 📒 I'm Oleg and a current 2nd year MSE at Princeton University.
 - 🦀 I like Rust and building low-latency infrastructure.
 - 🔥 I'm learning about CeFi, DeFi, and trading systems.
