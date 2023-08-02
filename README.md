@@ -4,7 +4,7 @@
 - 🔥 I'm learning about CeFi, DeFi, and trading systems.
 - 📫 You can reach me at <b>ogolev@princeton.edu</b> or my <b>[LinkedIn](https://www.linkedin.com/in/oleg-golev/)</b> profile.
 
-Also check out my project and research <b>[portfolio](oleggolev.github.io)</b>!
+Also check out my project and research <b>[portfolio](https://oleggolev.github.io)</b>!
 
 I'm currently interning at [<b> Arcesium </b>](https://www.arcesium.com/) where I'm building cool stuff for their Infrastructure team 😊
 
