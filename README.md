@@ -6,7 +6,7 @@
 
 Also check out my projects and research <b>[portfolio](https://oleggolev.github.io)</b>!
 
-I'm currently advised by Wyatt Lloyd (systems) and Parastoo Abtahi (HCI) working on cool research 😊
+I'm currently co-advised by Wyatt Lloyd and Amit Levy working on cool systems research 😊
 
 ---
 
