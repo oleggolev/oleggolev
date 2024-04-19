@@ -1,6 +1,6 @@
 ### About Me:
 - 📒 I'm Oleg and a current 2nd year MSE student at Princeton University.
-- 🦀 I like Rust and building low-latency infrastructure.
+- 🦀 I want to learn how to build better low-latency infrastructure.
 - 🔥 I'm learning about CeFi, DeFi, and trading systems.
 - 📫 You can reach me at <b>ogolev@princeton.edu</b> or my <b>[LinkedIn](https://www.linkedin.com/in/oleg-golev/)</b> profile.
 
