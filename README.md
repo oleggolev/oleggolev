@@ -1,16 +1,19 @@
-### About Me:
-- 📒 I'm Oleg, and I'm a recent graduate from Princeton University where I got my B.S.E. and M.Eng. degrees.
-- 🦀 I want to learn how to build better low-latency infrastructure.
-- 🔥 I'm learning about CeFi, DeFi, and trading systems.
-- 📫 You can reach me at <b>ogolev@alumni.princeton.edu</b> or my <b>[LinkedIn](https://www.linkedin.com/in/oleg-golev/)</b> profile.
+### Hi, I'm Oleg 👋
+- 🚀 I am Head of Platform at [Sentient Labs](https://sentient.xyz) (seed AI unicorn, $85M raise led by Founders Fund)
+- 🔬 [My research](https://scholar.google.com/citations?user=keIjyhQAAAAJ&hl=en) spans AI security, distributed systems, and human-computer interaction
+- 🐯 I graduated from Princeton University with B.S.E. and M.Eng. degrees; Go Tigers!
+- 📫 You can reach me at <b>ogolev@sentient.xyz</b>
 
-Also check out my projects and research <b>[portfolio](https://oleggolev.github.io)</b>!
+### 🔗 Links:
 
-As a Graduate Student, I've been co-advised by Wyatt Lloyd and Amit Levy working on cool systems research 😊
+- [LinkedIn](https://www.linkedin.com/in/oleg-golev/)</b>
+- [X](https://x.com/oleg_golev)
+- [Substack](http://oleggolev.substack.com/)
+- [Personal](oleggolev.github.io)
 
 ---
 
-### :hammer_and_wrench: Languages:
+### 🛠️ Languages:
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
