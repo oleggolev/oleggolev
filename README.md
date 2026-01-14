@@ -1,5 +1,5 @@
 ### Hi, I'm Oleg 👋
-- 🚀 I am Head of Platform at [Sentient Labs](https://sentient.xyz) (seed AI unicorn, $85M raise led by Founders Fund)
+- 🚀 I am Product Lead at [Sentient Labs](https://sentient.xyz) (seed AI unicorn, $85M raise led by Founders Fund)
 - 🔬 [My research](https://scholar.google.com/citations?user=keIjyhQAAAAJ&hl=en) spans AI security, distributed systems, and human-computer interaction
 - 🐯 I graduated from Princeton University with B.S.E. and M.Eng. degrees; Go Tigers!
 - 📫 You can reach me at <b>ogolev@sentient.xyz</b>
