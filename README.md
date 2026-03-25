@@ -1,6 +1,6 @@
 ### Hi, I'm Oleg 👋
 - 🚀 I am leading Product at [Sentient Labs](https://sentient.xyz) (seed AI unicorn, $85M raise led by Founders Fund)
-- 🔬 [My research](https://scholar.google.com/citations?user=keIjyhQAAAAJ&hl=en) spans AI, distributed systems, and human-computer interaction
+- 🔬 [My research](https://scholar.google.com/citations?user=keIjyhQAAAAJ&hl=en) spans AI evaluatin & security, distributed systems, and human-computer interaction
 - 🐯 I graduated from Princeton University with B.S.E. and M.Eng. in Computer Science; Go Tigers!
 - 📫 You can reach me at <b>ogolev@alumni.princeton.edu</b>
 - 🔗 Everything else can be found on my [Personal Website](https://oleggolev.com/) and my [LinkedIn](https://www.linkedin.com/in/oleg-golev/)
